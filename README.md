@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankaasoft
-- 👀 I’m interested in creating Indonesian tax calculator
+- 👀 I’m interested in creating Indonesian tax calculator, learning games
 - 🌱 I’m currently learning Flutter/Dart
 
 <!---
